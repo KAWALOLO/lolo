@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="#ffcfd8dc" android:layout_width="fill_parent" android:layout_height="fill_parent" android:weightSum="100.0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:id="@id/imageView2" android:background="@drawable/project_cerberus_logo_big" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="45.0" android:contentDescription="@string/cerberus" />
+    <TextView android:textSize="14.0sp" android:id="@id/txtLog" android:background="#ffb6bdc2" android:padding="5.0pt" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="55.0" />
+    <CheckBox android:layout_gravity="center_horizontal" android:id="@id/chbxNewIdentity" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="15.0dip" android:text="@string/new_identity" />
+    <LinearLayout android:gravity="center" android:layout_gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="10.0dip">
+        <Button android:id="@id/btnBypass" android:background="@drawable/button_bypass" android:layout_width="wrap_content" android:layout_height="50.0dip" android:layout_marginLeft="10.0dip" android:layout_marginRight="10.0dip" android:scaleType="fitXY" android:adjustViewBounds="true" android:cropToPadding="false" />
+    </LinearLayout>
+</LinearLayout>

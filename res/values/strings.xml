@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about">About</string>
+    <string name="app_name">HANGA</string>
+    <string name="bypass">BYPASS</string>
+    <string name="cerberus">Cerberus</string>
+    <string name="new_identity">New identity</string>
+    <string name="random">RANDOM</string>
+    <string name="reboot">REBOOT</string>
+    <string name="save">SAVE</string>
+</resources>

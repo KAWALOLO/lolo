@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="btnBypass">false</item>
+    <item type="id" name="chbxNewIdentity">false</item>
+    <item type="id" name="imageView2">false</item>
+    <item type="id" name="txtLog">false</item>
+</resources>
